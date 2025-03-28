@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://aymengn.github.io/self/sitemap.xml
